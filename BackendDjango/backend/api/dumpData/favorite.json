@@ -1,0 +1,166 @@
+[{
+  "_id": {
+    "$oid": "624ea5893e9d703d3f8e2c2f"
+  },
+  "appId": "bKxKpsn0VZWmdviWJc8gTkvUMPj2",
+  "gameList": [
+    {
+      "steam_appid": 730
+    },
+    {
+      "steam_appid": 236430
+    },
+    {
+      "steam_appid": 1449850
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "624ea6c13e9d703d3f8e2c32"
+  },
+  "appId": "foLpX1OeRubbj6pQ9S1HVmov5Lf1",
+  "gameList": [
+    {
+      "steam_appid": 1245620
+    },
+    {
+      "steam_appid": 1449850
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "624ea77a3e9d703d3f8e2c35"
+  },
+  "appId": "4mzYz9XzfLhBs7AVNzI9hGr3Kih1",
+  "gameList": []
+},{
+  "_id": {
+    "$oid": "624ea7903e9d703d3f8e2c38"
+  },
+  "appId": "1tP11sKdBJa6wTClEMcr67TJldp1",
+  "gameList": [
+    {
+      "steam_appid": 1245620
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "624ea7973e9d703d3f8e2c3b"
+  },
+  "appId": "vEVW5v6vFBPkWYrwjO2bie5Nx2y2",
+  "gameList": [
+    {
+      "steam_appid": 736260
+    },
+    {
+      "steam_appid": 983970
+    },
+    {
+      "steam_appid": 289130
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "624ea86d3e9d703d3f8e2c3f"
+  },
+  "appId": "B2T0n8mrZ8fQWpqPwSIpaXkOBMq2",
+  "gameList": [
+    {
+      "steam_appid": 730
+    },
+    {
+      "steam_appid": 17080
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "624ea8be3e9d703d3f8e2c42"
+  },
+  "appId": "Pa2OFBwSlThF3PeXvIbX9vzjSaT2",
+  "gameList": [
+    {
+      "steam_appid": 1446780
+    },
+    {
+      "steam_appid": 1245620
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "624ea99c3e9d703d3f8e2c44"
+  },
+  "appId": "cOK4WaJOGxhKnef1tgpQ2axEg5Y2",
+  "gameList": [
+    {
+      "steam_appid": 412830
+    },
+    {
+      "steam_appid": 730
+    },
+    {
+      "steam_appid": 324160
+    },
+    {
+      "steam_appid": 368340
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "624ea9bd3e9d703d3f8e2c48"
+  },
+  "appId": "cwT7PctkzAanczgyhzUc5ZBPy0c2",
+  "gameList": []
+},{
+  "_id": {
+    "$oid": "624eaa203e9d703d3f8e2c4b"
+  },
+  "appId": "APzWjpiBQDTX6B9EQiuDc8auDIH2",
+  "gameList": []
+},{
+  "_id": {
+    "$oid": "624eaab53e9d703d3f8e2c4f"
+  },
+  "appId": "A7cVUGzZfwgiTo37aoVDTyv0TPv1",
+  "gameList": [
+    {
+      "steam_appid": 1245620
+    },
+    {
+      "steam_appid": 1721870
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "624eb5213e9d703d3f8e2c53"
+  },
+  "appId": "63aKT5EfZRfRky9IpBrf4sRIdfF3",
+  "gameList": [
+    {
+      "steam_appid": 900270
+    },
+    {
+      "steam_appid": 1245620
+    },
+    {
+      "steam_appid": 15100
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "624f83133e9d703d3f8e2c58"
+  },
+  "appId": "Mf0mDIHdhKhsB6ZmlHLJVqiFeWy1",
+  "gameList": []
+},{
+  "_id": {
+    "$oid": "624f859623ab907d984a2dab"
+  },
+  "appId": "bvJBr2Jeg1fLESPlMhYuatWWh3n1",
+  "gameList": []
+},{
+  "_id": {
+    "$oid": "624f9c8623ab907d984a2dae"
+  },
+  "appId": "MwzAvGVWNsPMbvF1PmVwIvc335H3",
+  "gameList": []
+}]

@@ -1,0 +1,358 @@
+[{
+  "_id": {
+    "$oid": "624ea58f3e9d703d3f8e2c30"
+  },
+  "appId": "bKxKpsn0VZWmdviWJc8gTkvUMPj2",
+  "result": [
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": -1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": -1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": -1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "624ea6c33e9d703d3f8e2c33"
+  },
+  "appId": "foLpX1OeRubbj6pQ9S1HVmov5Lf1",
+  "result": [
+    {
+      "ans": -1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "624ea77b3e9d703d3f8e2c36"
+  },
+  "appId": "4mzYz9XzfLhBs7AVNzI9hGr3Kih1",
+  "result": [
+    {
+      "ans": 1
+    },
+    {
+      "ans": -1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": -1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": -1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "624ea7983e9d703d3f8e2c3c"
+  },
+  "appId": "vEVW5v6vFBPkWYrwjO2bie5Nx2y2",
+  "result": []
+},{
+  "_id": {
+    "$oid": "624ea86e3e9d703d3f8e2c40"
+  },
+  "appId": "B2T0n8mrZ8fQWpqPwSIpaXkOBMq2",
+  "result": [
+    {
+      "ans": 1
+    },
+    {
+      "ans": -1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": -1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": -1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": -1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "624ea99d3e9d703d3f8e2c45"
+  },
+  "appId": "cOK4WaJOGxhKnef1tgpQ2axEg5Y2",
+  "result": [
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "624ea9be3e9d703d3f8e2c49"
+  },
+  "appId": "cwT7PctkzAanczgyhzUc5ZBPy0c2",
+  "result": []
+},{
+  "_id": {
+    "$oid": "624eaa233e9d703d3f8e2c4c"
+  },
+  "appId": "APzWjpiBQDTX6B9EQiuDc8auDIH2",
+  "result": [
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "624eaab63e9d703d3f8e2c50"
+  },
+  "appId": "A7cVUGzZfwgiTo37aoVDTyv0TPv1",
+  "result": [
+    {
+      "ans": 1
+    },
+    {
+      "ans": -1
+    },
+    {
+      "ans": -1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": -1
+    },
+    {
+      "ans": -1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": -1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "624eb5233e9d703d3f8e2c54"
+  },
+  "appId": "63aKT5EfZRfRky9IpBrf4sRIdfF3",
+  "result": [
+    {
+      "ans": 1
+    },
+    {
+      "ans": -1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": -1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": -1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": -1
+    },
+    {
+      "ans": -1
+    },
+    {
+      "ans": -1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "624f83143e9d703d3f8e2c59"
+  },
+  "appId": "Mf0mDIHdhKhsB6ZmlHLJVqiFeWy1",
+  "result": [
+    {
+      "ans": -1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": -1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": -1
+    },
+    {
+      "ans": 1
+    },
+    {
+      "ans": -1
+    },
+    {
+      "ans": -1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "624f859923ab907d984a2dac"
+  },
+  "appId": "bvJBr2Jeg1fLESPlMhYuatWWh3n1",
+  "result": []
+},{
+  "_id": {
+    "$oid": "624f9c8723ab907d984a2daf"
+  },
+  "appId": "MwzAvGVWNsPMbvF1PmVwIvc335H3",
+  "result": []
+}]

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mainViewPageWidth">400dp</dimen>
+    <dimen name="viewPageMargin">15dp</dimen>
+    <dimen name="viewPageWidth">200dp</dimen>
+    <dimen name="screenViewPageMargin">15dp</dimen>
+    <dimen name="screenViewPageWidth">210dp</dimen>
+</resources>

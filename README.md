@@ -15,11 +15,9 @@
 
 ## 📚 기술 스택
 
-이호형의 사용 기술 스택은 **볼드**처리 되어 있습니다.
-
-- **Django**, **MongoDB**, **pandas**, **Selenium**
-- **Jira, git**
+- Django, MongoDB, pandas, **Selenium
 - Android Studio
+- Jira, git
 - AWS EC2, Docker, Jenkins, Nginx
 
 ## 역할
